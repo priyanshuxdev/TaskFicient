@@ -1,8 +1,18 @@
-# React + Vite
+# TaskFicient
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TaskFicient** is an advanced to-do application that streamlines task management with priority sorting, real-time weather updates for outdoor activities, and a user-friendly interface. It is designed to boost productivity and ensure tasks are organized efficiently.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Task Management**: Add, prioritize, and track tasks effortlessly.
+- **Priority Sorting**: Organize tasks based on priority levels (High, Medium, Low).
+- **Real-Time Weather Integration**: Display current weather conditions for tasks marked as outdoor activities.
+- **Responsive Design**: Enjoy a seamless experience across mobile, tablet, and desktop devices.
+- **Mock Authentication**: Secure your tasks with a simple login/logout system.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/taskficient.git
+
