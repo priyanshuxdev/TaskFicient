@@ -45,9 +45,10 @@
 ![TaskFicient](public/Desktop-1.png)
 ![TaskFicient](public/Desktop-2.png)
 ![TaskFicient](public/Desktop-3.png)
-![TaskFicient](public/Mobile-1.jpeg)
+
+<!-- ![TaskFicient](public/Mobile-1.png)
 ![TaskFicient](public/Mobile-3.jpeg)
-![TaskFicient](public/Mobile-2.jpeg)
+![TaskFicient](public/Mobile-2.jpeg) -->
 
 ## Technologies
 
