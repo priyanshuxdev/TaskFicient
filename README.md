@@ -16,3 +16,21 @@
    ```bash
    git clone https://github.com/yourusername/taskficient.git
 
+2. Navigate to the project directory:
+   ```bash
+   cd taskficient
+3. Install the dependencies:
+   ```bash
+   pnpm install
+4. Start the development server:
+   ```bash
+   pnpm dev
+   
+Usage
+Add Tasks: Use the input field to add new tasks. You can set a priority level and mark tasks as outdoor activities.
+View Tasks: See all your tasks in a list, sorted by priority.
+Weather Updates: View real-time weather icons for outdoor tasks.
+Authentication: Log in to access your tasks securely.
+
+Screenshots
+
