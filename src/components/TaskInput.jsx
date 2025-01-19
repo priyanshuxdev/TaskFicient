@@ -46,7 +46,7 @@ export const TaskInput = () => {
   return (
     <>
       <Toaster position="top-center" reverseOrder={false} />
-      <div className="bg-gradient-to-b from-neutral-50 to-neutral-300 px-2 py-4 rounded-lg drop-shadow-lg">
+      <div className="bg-gradient-to-b from-neutral-100 to-neutral-400 px-2 py-4 rounded-lg drop-shadow-lg">
         <form onSubmit={handleAddTask} className="space-y-4">
           <div className="flex items-center space-x-2">
             <input
@@ -72,7 +72,7 @@ export const TaskInput = () => {
                 checked={isOutdoor}
                 onCheckedChange={() => setIsOutdoor(!isOutdoor)}
               />
-              <span>Outdoor Task</span>
+              <span className="text-slate-700">Outdoor Task</span>
             </div>
             <button className="bg-slate-900 text-white p-2 rounded-lg flex items-center space-x-2">
               <PlusCircle className="inline-block" />
