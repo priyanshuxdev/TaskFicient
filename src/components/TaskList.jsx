@@ -17,7 +17,7 @@ export const TaskList = () => {
   );
 
   useEffect(() => {
-    dispatch(fetchWeather("India"));
+    dispatch(fetchWeather("Kanpur"));
   }, [dispatch]);
 
   const priorityOrder = {
